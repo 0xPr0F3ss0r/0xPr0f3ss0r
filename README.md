@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying in university  
-✔ I'm mobile app developer| flutter and cyber securite Enthusiast 
+✔ I'm mobile app developer| flutter 
+✔ I'm  cyber securite Enthusiast 
 ⚡ Im currently working in projects
 
 # 💻 Tech Stack:
