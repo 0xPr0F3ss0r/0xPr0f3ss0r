@@ -50,6 +50,6 @@
 
 ###
 
-<img align="right" height="150" width='350' src="https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=ecf05e471cp7642ksj0k27dv1fz829ejwf7iorqwo2kzjx01&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" width='500' src="https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=ecf05e471cp7642ksj0k27dv1fz829ejwf7iorqwo2kzjx01&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
