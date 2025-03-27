@@ -46,6 +46,6 @@
 
 ###
 
-<img align="right" height="300" width ="500" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e479acyjtzvpfmb1ccw8127o5xkh1hl99jw1vmsbz3z&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" width ="800" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e479acyjtzvpfmb1ccw8127o5xkh1hl99jw1vmsbz3z&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
