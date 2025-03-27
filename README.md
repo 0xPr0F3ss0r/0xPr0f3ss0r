@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kebir hani  and I'm a flutter developer and cyber security Enthusiast , from algeria.</h2>
+<h2 align="left">Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h2>
 
 ###
 
@@ -40,15 +40,14 @@
   <a href="https://www.instagram.com/hani_____kr_/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/kebir-hani" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://x.com/0xM4G1sT3r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="www.linkedin.com/in/kebir-hani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-<!--     <a href="www.linkedin.com/in/kebir-hani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a> -->
 </div>
 
+###
 
+<img src="https://github.com/0xPr0f3ss0r/0xPr0f3ss0r/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
