@@ -8,11 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xPr0f3ss0r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e479acyjtzvpfmb1ccw8127o5xkh1hl99jw1vmsbz3z&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -50,6 +46,6 @@
 
 ###
 
-<img align="right" height="300" width='500' src="https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif?cid=ecf05e471cp7642ksj0k27dv1fz829ejwf7iorqwo2kzjx01&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" width ="500" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e479acyjtzvpfmb1ccw8127o5xkh1hl99jw1vmsbz3z&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
