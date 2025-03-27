@@ -50,4 +50,6 @@
 
 ###
 
-<img src="https://github.com/0xPr0f3ss0r/0xPr0f3ss0r/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🐍 Play Snake
+
+[![Snake Game](https://github.com/0xPr0f3ss0r/0xPr0f3ss0r/raw/output/snake-game.svg)](https://github.com/marketplace/actions/generate-snake-game)
