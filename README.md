@@ -1,4 +1,14 @@
-<h1 align="left" style ="color="blue"" >Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h1>
+<h1 align="left" style="color: #2563eb; font-family: 'Segoe UI', sans-serif;">
+  Hi <span style="display: inline-block; animation: wave 1.5s infinite;"></span>!Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria 
+</h1>
+
+<style>
+  @keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(-15deg); }
+    75% { transform: rotate(15deg); }
+  }
+</style>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
