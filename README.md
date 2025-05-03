@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h2>
-
-###
+<h1 align="left">Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
@@ -37,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-
+<hr />
 <div align="center">
   <a href="https://www.instagram.com/hani_____kr_/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -51,7 +49,7 @@
 </div>
 
 ###
-
+<hr />
 <img align="center" height="500" width ="1600" src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif?cid=ecf05e479acyjtzvpfmb1ccw8127o5xkh1hl99jw1vmsbz3z&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
