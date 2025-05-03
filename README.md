@@ -1,7 +1,7 @@
-<h1 align="left" style="color: #2563eb; font-family: 'Segoe UI', sans-serif;">
-  Hi <span style="display: inline-block; animation: wave 1.5s infinite;"></span>!Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria 
+<h1 align="left" style="color: #2563eb; font-family: 'Segoe UI', sans-serif; font-weight: 600;">
+  Hi 👋! I'm Kebir Hani, a <span style="color: #38b2ac;">Flutter Developer</span> and 
+  <span style="color: #e53e3e;">Cyber Security Enthusiast</span> from Algeria 🇩🇿.
 </h1>
-
 <style>
   @keyframes wave {
     0%, 100% { transform: rotate(0deg); }
