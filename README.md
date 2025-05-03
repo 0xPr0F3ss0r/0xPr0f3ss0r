@@ -35,7 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-###
 
 <div align="left">
   <a href="https://www.instagram.com/hani_____kr_/?utm_source=ig_web_button_share_sheet" target="_blank">
