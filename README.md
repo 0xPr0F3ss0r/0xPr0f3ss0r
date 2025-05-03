@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img with="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="30" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo" />
 </div>
 
 ###
