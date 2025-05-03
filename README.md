@@ -2,13 +2,6 @@
   Hi 👋! I'm Kebir Hani, a <span style="color: #38b2ac;">Flutter Developer</span> and 
   <span style="color: #e53e3e;">Cyber Security Enthusiast</span> from Algeria 🇩🇿.
 </h1>
-<style>
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(-15deg); }
-    75% { transform: rotate(15deg); }
-  }
-</style>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
