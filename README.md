@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="0xPr0f3ss0r's Stats](https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xPr0f3ss0r&theme=vue-dark&hide_border=false"  />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
