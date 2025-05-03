@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h1>
+<h1 align="left" style ="color="blue"" >Hi 👋! I'm Kebir Hani, a Flutter Developer and Cyber Security Enthusiast from Algeria.</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
