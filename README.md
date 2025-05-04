@@ -1,5 +1,5 @@
 <h1 align="left" style="font-family: 'Segoe UI', sans-serif; font-weight: 600;">
-  Hi 👋! I'm Kebir Hani, a <span style="color: #38b2ac;">Flutter Developer</span> and 
+  Hi 👋! I'm Kebir Hani, a <span style="color: #38b2ac;">mobile app Developer(Flutter)</span> and 
   <span style="color: #e53e3e;">Cyber Security Enthusiast</span> from Algeria 🇩🇿.
 </h1>
 
