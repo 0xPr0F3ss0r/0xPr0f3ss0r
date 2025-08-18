@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <img width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUxNmtocGl1bTR5YThvaWc2NnY5MDh6b291YmZjMmlhOG1vYWFpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EEpUuOXLdQ5ws/giphy.gif" alt="Coding Animation" style="border-radius:20px; box-shadow: 0 0 40px #38b2ac, 0 0 80px #e53e3e inset;">
+  <img width="700" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUxNmtocGl1bTR5YThvaWc2NnY5MDh6b291YmZjMmlhOG1vYWFpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EEpUuOXLdQ5ws/giphy.gif" alt="Coding Animation" style="border-radius:20px; box-shadow: 0 0 40px #38b2ac, 0 0 80px #e53e3e inset;">
 </div>
