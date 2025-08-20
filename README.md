@@ -1,7 +1,7 @@
 # <div align="center">👋 Hey there! I'm <span style="background: linear-gradient(45deg, #38b2ac, #4fd1c7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">Kebir Hani</span></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80"/>
         <br><strong>Mobile Development</strong>
         <br>Building cross-platform apps with Flutter
       </td>
@@ -77,7 +77,7 @@
 
 ### 🔧 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,firebase,mysql,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,firebase,mysql,linux&theme=dark" />
 </div>
 
 ### 🛡️ Security & DevOps
