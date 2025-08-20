@@ -43,7 +43,7 @@
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
         <br><strong>Open Source</strong>
-        <br>Contributing to the developer community
+        <br>Contributing to developer community
       </td>
     </tr>
   </table>
@@ -103,15 +103,23 @@
 
 ---
 
-## 💼 Featured Projects
+## 🌟 What I'm Working On
 
 <div align="center">
-  <a href="https://github.com/0xPr0f3ss0r/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xPr0f3ss0r&repo=project1&theme=react&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/0xPr0f3ss0r/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xPr0f3ss0r&repo=project2&theme=react&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" alt="Project 2"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+        <br><strong>Mobile Apps</strong>
+        <br>Building innovative Flutter applications
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+        <br><strong>Learning</strong>
+        <br>Exploring new technologies and frameworks
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -141,17 +149,13 @@
 
 ---
 
-## 🔥 Contribution Activity
+## 🎯 Coding Journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBocThrYzJ2bnN2NW12a3UwZnB1MmZpZmZ3dHgwMGdmMzN6aDR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding Animation" style="border-radius:20px;"/>
+  <br>
+  <p><em>Every line of code is a step forward in the journey of creation! 🚀</em></p>
 </div>
-
-> **Note:** To enable the snake animation, you'll need to set up a GitHub Action. Create `.github/workflows/snake.yml` in your profile repository with the snake generation workflow.
 
 ---
 
