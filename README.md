@@ -1,7 +1,7 @@
 # <div align="center">👋 Hey there! I'm <span style="background: linear-gradient(45deg, #38b2ac, #4fd1c7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">Kebir Hani</span></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%26+Dart+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -162,7 +162,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
   
-  ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks for visiting!</b> Keep coding and stay awesome! 🌟</em>
 </div>
