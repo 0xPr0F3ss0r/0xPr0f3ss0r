@@ -128,26 +128,30 @@
   <a href="https://www.instagram.com/hani_____kr_/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## 💭 Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&color=38B2AC" alt="Random Dev Quote"/>
+  <h3>"The best way to get started is to quit talking and begin doing." - Walt Disney</h3>
+  <p><em>Write clean code, think simple, and keep pushing forward! 🚀</em></p>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xPr0f3ss0r/0xPr0f3ss0r/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+> **Note:** To enable the snake animation, you'll need to set up a GitHub Action. Create `.github/workflows/snake.yml` in your profile repository with the snake generation workflow.
 
 ---
 
