@@ -16,6 +16,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xPr0f3ss0r&theme=vue-dark&hide_border=false" alt="Streak Stats" style="border-radius:20px; box-shadow:0 0 25px #e53e3e;"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xPr0f3ss0r&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="border-radius:20px; box-shadow:0 0 25px #a89e3b;"/>
+  <br />
+  
+  <!-- 🌟 Total Stars Badge -->
+  <img src="https://custom-icon-badges.demolab.com/github/stars/0xPr0f3ss0r?logo=star&color=yellow&style=for-the-badge&label=Total%20Stars" alt="Total Stars" style="margin-top:15px; box-shadow:0 0 20px #FFD700;"/>
 </div>
 
 ---
